@@ -43,8 +43,8 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
-      name: 'GitHub',
-      url: 'https://github.com/saicaca/fuwari',     // Internal links should not include the base path, as it is automatically added
+      name: 'Store',
+      url: 'https://store.kalwi.net',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
   ],
@@ -56,21 +56,21 @@ export const profileConfig: ProfileConfig = {
   bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
+      name: 'Youtube',
+      icon: 'fa6-brands:youtube',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://twitter.com',
+      url: 'https://www.youtube.com/@kandangalwi',
     },
     {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      name: 'Discord',
+      icon: 'fa6-brands:discord',
+      url: 'https://discord.gg/kandangalwi',
     },
     {
-      name: 'GitHub',
-      icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      name: 'Tiktok',
+      icon: 'fa6-brands:tiktok',
+      url: 'https://www.tiktok.com/@kandangalwi.me',
     },
   ],
 }
