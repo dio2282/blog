@@ -19,6 +19,10 @@ Kami telah melakukan beberapa pembaruan penting di Survival v2! Berikut adalah i
 
 - **Update ke 1.21.1**: Server kini berjalan di versi Minecraft 1.21.1, dengan berbagai perbaikan dan peningkatan performa.
 
+:::important
+Ini Merupakan Server Kadangalwi Versi 1.21.1 Pertama, jika mendapati lag atau bug mohon dimaafkan
+:::
+
 ### Fitur Baru
 
 #### Sistem Bounty
