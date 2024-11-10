@@ -14,10 +14,6 @@ Kami telah melakukan beberapa pembaruan penting di Survival v2! Berikut adalah i
 ### Perubahan Sistem
 
 - **Reset Semua**: Kami telah melakukan reset total untuk skill, item, dan dunia. Semua data sebelumnya akan dihapus.
-  
-:::important
-Pastikan untuk menyimpan semua item penting dan mempersiapkan diri untuk memulai dari awal!
-:::
 
 - **Balance Mcmmo**: Kami telah menyesuaikan beberapa skill di Mcmmo untuk memastikan keseimbangan dalam gameplay. Ini akan membuat pengalaman bermain menjadi lebih adil dan menantang.
 
