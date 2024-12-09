@@ -1,6 +1,7 @@
 ---
 title: Log Pembaruan Survival v2
 published: 2024-11-10
+author: dev_dio
 description: Pembaruan kunci dan perubahan dalam Survival v2 termasuk reset total, sistem bounty baru, perubahan harga CE, dan lainnya.
 tags: [Survival v2, Pembaruan, Sistem Bounty, CE, Leaderboard, Mcmmo]
 category: Pembaruan Game
