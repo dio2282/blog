@@ -1,0 +1,102 @@
+---
+title: Survival-RPG v1.0.2 Update
+published: 2024-12-11
+description: Pembaruan besar Survival-RPG v1.0.2! Dungeon eksklusif baru, mob tangguh, material spesial, dan 21 item RPG eksklusif dengan kemampuan unik.
+tags: [Survival-RPG, Dungeon I, RPG Items, Soul Reaper, Necromancer, Rank Supporter, Custom Abilities]
+category: Pembaruan Game
+draft: false
+---
+
+## 🏰 Survival-RPG v1.0.2 Update
+
+Pembaruan besar telah hadir di Survival-RPG! Versi **v1.0.2** menghadirkan **Dungeon I**, mob baru yang menantang, material eksklusif, serta **21 item RPG baru** dengan kemampuan spesial. Bersiaplah untuk pengalaman RPG yang lebih seru dan mendalam!
+
+---
+
+### 🔒 **Dungeon Baru: Dungeon I**
+
+Dungeon eksklusif pertama, **Dungeon I**, kini tersedia! Dungeon ini hanya dapat diakses oleh pemain dengan **rank Supporter** atau lebih tinggi. Masuki dungeon melalui perintah:  
+`/warp dungeon`  
+
+Dungeon ini dirancang untuk memberikan tantangan epik dengan berbagai mob baru, material spesial, dan hadiah eksklusif. Siapkan dirimu untuk bertarung melawan musuh-musuh tangguh dan bos legendaris!
+
+---
+
+### 👹 **Mob Baru di Dungeon I**
+
+Berikut adalah daftar mob baru yang akan kamu temui di **Dungeon I**, lengkap dengan statistik mereka. Bersiaplah menghadapi serangan-serangan mematikan mereka!
+
+| **Nama Mob**       | **Health** | **Damage** |  
+|---------------------|------------|------------|  
+| **Ash Spider**      | 75         | 4          |  
+| **Fire Spider**     | 100        | 6          |  
+| **Crypt Lurker**    | 75         | 3          |  
+| **Skeleton Grunt**  | 100        | 3          |  
+| **Dreadlord**       | 120        | 5          |  
+| **Skeleton Warrior**| 200        | 4          |  
+
+#### 🧙‍♂️ **Mini-Boss: Necromancer**  
+- **Health**: 400  
+- **Damage**: 10  
+- Necromancer adalah musuh tangguh yang memanggil pasukan undead untuk menyerangmu. Kalahkan dia untuk mendapatkan material eksklusif!  
+
+#### 💀 **Boss Utama: Soul Reaper**  
+- **Health**: 1200 (dibagi dalam 3 fase)  
+- **Damage**: 25  
+- **Soul Reaper** adalah bos legendaris dengan mekanik bertarung 3 fase. Setiap fase memiliki pola serangan yang berbeda, menjadikannya salah satu tantangan paling sulit di Survival-RPG!  
+
+---
+
+### 🪙 **Material Baru: Trade Material**
+
+Dungeon I memperkenalkan material eksklusif yang dapat digunakan untuk crafting atau trading. Material ini hanya bisa didapatkan dengan mengalahkan mob di dalam dungeon. Kumpulkan material ini sebanyak mungkin untuk menukarkannya dengan **item RPG eksklusif**!
+
+---
+
+### 🛒 **Trader Baru**
+
+Bersamaan dengan pembaruan ini, kami juga memperkenalkan **Trader RPG** baru! Temui mereka di lokasi khusus:  
+`/warp rpg`  
+
+Di sini, kamu bisa menukar material spesial dari Dungeon I untuk mendapatkan item RPG eksklusif. Trader ini menyediakan **21 item RPG baru** dengan kemampuan khusus yang hanya dapat diperoleh melalui sistem ini.
+
+---
+
+### ⚔️ **21 Item RPG Baru**
+
+Pembaruan ini menghadirkan **21 item RPG eksklusif** yang dirancang khusus untuk Dungeon I. Setiap item memiliki **kemampuan unik** yang akan membantu petualanganmu dalam dungeon. Berikut adalah beberapa contoh item yang tersedia:
+
+#### **1. Shadowfang (Weapon)**  
+- **Class**: A  
+- **Damage**: 20  
+- **Attack Speed**: 1.6  
+- **Abilities**:  
+  - **Shadow Step**: Memberikan efek invisibilitas selama 3 detik setiap kali menyerang (Cooldown: 10 detik).  
+
+#### **2. Flameguard Plate (Armor - Chestplate)**  
+- **Class**: S  
+- **Defense**: +2  
+- **Armor**: +8  
+- **Health**: +5  
+- **Abilities**:  
+  - **Flame Aura**: Membakar musuh dalam radius 5 blok dengan **damage 5/s** (Cooldown: 15 detik).  
+
+#### **3. Soulbinder Staff (Weapon)**  
+- **Class**: S  
+- **Damage**: 15  
+- **Abilities**:  
+  - **Soul Leech**: Memulihkan 10% dari total health setiap kali membunuh musuh.  
+
+Item-item lainnya meliputi senjata, armor, dan aksesoris yang dirancang untuk memperkuat karaktermu di dalam dungeon. Pastikan untuk mengumpulkan material sebanyak mungkin dan dapatkan semuanya!
+
+---
+
+### 📌 **Catatan Penting**
+
+- **Dungeon I** hanya dapat diakses oleh pemain dengan **rank Supporter** atau lebih tinggi.  
+- Pastikan kamu memiliki perlengkapan terbaik sebelum memasuki dungeon, karena mob dan bos di dalamnya sangat berbahaya.  
+- Semua item RPG baru hanya bisa didapatkan melalui sistem trading di `/warp rpg`.  
+
+---
+
+Nikmati pembaruan **Survival-RPG v1.0.2** dan bersiaplah menghadapi tantangan epik di **Dungeon I**. Tunjukkan kehebatanmu dan jadilah legenda di dunia Survival-RPG! 🗡️
